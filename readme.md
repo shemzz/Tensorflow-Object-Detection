@@ -1,0 +1,1 @@
+# Multiple object detection using Common Objects in Context (COCO SSD) pre trained model in TensorFlow.js
